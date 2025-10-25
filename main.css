@@ -1,0 +1,16 @@
+body {
+    background-color: khaki;
+}
+
+
+header {
+    background-color: darkorange;
+    padding: auto;
+    max-width: 100px;
+}
+
+p {
+    background-color: darkgreen;
+    border-radius: 5px;
+    width: 300px;
+}
